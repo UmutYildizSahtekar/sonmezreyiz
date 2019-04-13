@@ -1,2 +1,1 @@
-# sonmezreyiz
-Sönmez Reyiz BOT
+# TETİKCİ BOT ALTYAPI
